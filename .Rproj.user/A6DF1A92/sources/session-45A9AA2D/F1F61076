@@ -3,9 +3,9 @@
     "path": "~/Documents/MEDS/eds221/eds221_day9_B/kable_tables.qmd",
     "project_path": "kable_tables.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "401179903",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1660855320114.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -22,11 +22,11 @@
         "rmdVisualModeLocation": "1182:1026.4000244140625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1660860304,
+    "lastKnownWriteTime": 1660860673,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1660860595820,
+    "last_content_update": 1660860673707,
     "read_only": false,
     "read_only_alternatives": []
 }
