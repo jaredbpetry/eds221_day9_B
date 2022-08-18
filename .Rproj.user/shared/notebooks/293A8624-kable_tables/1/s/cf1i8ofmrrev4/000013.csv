@@ -1,0 +1,5 @@
+"0","hbr_summary <- hbr_maples |> "
+"0","  group_by(watershed, year) |> "
+"0","  summarise(mean_height = round(mean(stem_length, na.rm = TRUE), 1), "
+"0","            sd_height = round(sd(stem_length, na.rm = TRUE), 1))"
+"2","`summarise()` has grouped output by 'watershed'. You can override using the `.groups` argument."

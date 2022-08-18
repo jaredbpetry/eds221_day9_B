@@ -1,11 +1,11 @@
 {
     "id": "F1F61076",
-    "path": "~/Documents/MEDS/eds221/eds221_day9_B/reprex_practice.qmd",
-    "project_path": "reprex_practice.qmd",
+    "path": "~/Documents/MEDS/eds221/eds221_day9_B/kable_tables.qmd",
+    "project_path": "kable_tables.qmd",
     "type": "quarto_markdown",
-    "hash": "1130171609",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1660855320114.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -15,18 +15,18 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,41",
+        "cursorPosition": "38,87",
         "scrollLine": "0",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "129:0"
+        "rmdVisualModeLocation": "1182:1026.4000244140625"
     },
     "folds": "",
-    "lastKnownWriteTime": 1660856128,
+    "lastKnownWriteTime": 1660860304,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1660856128147,
+    "last_content_update": 1660860595820,
     "read_only": false,
     "read_only_alternatives": []
 }
